@@ -1,0 +1,2 @@
+module TYSS_JAVA {
+}
